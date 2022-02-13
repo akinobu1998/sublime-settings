@@ -1,0 +1,11 @@
+// SublimeLinter Settings - User
+{
+	"linters": {
+		"jshint": {
+			"filter_errors": ["W104", "W119"],
+		},
+		"pylint": {
+			"filter_errors": ["C0330", "C0114", "C0116", "C0410", "W0311"],
+		}
+	}
+}

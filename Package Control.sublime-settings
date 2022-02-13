@@ -1,0 +1,56 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://static.bolin.site/channel_v3.json"
+	],
+	"debug": false,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		],
+		"osx":
+		[
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		],
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"ApacheConf",
+		"Auto Close HTML Tags",
+		"Babel",
+		"Bootstrap 4 Autocomplete",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr 2020 (DoxyDoxygen powered)",
+		"DoxyDoxygen (evolution)",
+		"JSX",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Mediawiker",
+		"Package Control",
+		"SideBarEnhancements",
+		"SSH Config",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint",
+	],
+}

@@ -1,0 +1,31 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_size": 14,
+	"word_wrap": "true",
+	"ignored_packages":
+	[
+		"Anaconda",
+		"DocBlockr 2020 (DoxyDoxygen powered)",
+		"Markdown",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"Vintage",
+	],
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html, text.xml",
+		},
+		{
+			"rhs_empty": true,
+			"selector": "punctuation.accessor",
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex",
+		}
+	],
+}
